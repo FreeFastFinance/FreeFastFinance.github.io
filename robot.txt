@@ -1,0 +1,8 @@
+User-agent: Yandex
+Disallow:/admin
+Disallow:/img
+Host: freefastfinance.github.io
+
+User-agent: Googlebot
+Disallow:/admin
+Disallow:/img
